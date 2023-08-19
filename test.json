@@ -1,0 +1,16 @@
+[
+  {
+      "id": 0,
+      "image": "0.jpg",
+      "address": "Deutschland, Hamburg, Bergedorf, Altengamme",
+      "price": "340,000",
+      "rooms": "4,5"
+  },
+  {
+      "id": 1,
+      "image": "1.jpg",
+      "address": "Deutschland, Hamburg, Wedel",
+      "price": "395,000",
+      "rooms": "4"
+  }
+]
